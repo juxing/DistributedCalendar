@@ -1,3 +1,5 @@
+
+
 1. Use ./compile to compile all java source code, and user ./clean to clean all .class files.
 2. Usage:
    Server -- Start 5 service on five different nodes, for example, 1 - 5, using command: java -Djava.security.policy=policy NamingServiceImpl bootstrap pprev p id n nnext, 
