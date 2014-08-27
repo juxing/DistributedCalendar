@@ -1,0 +1,14 @@
+#!/bin/bash
+javac NamingService.java
+javac NamingServiceImpl.java
+javac CalendarServiceLocator.java
+javac CalendarUI.java
+javac CalendarUIImpl.java
+javac CalendarManagerData.java
+javac CalendarManagerImpl.java
+javac CalendarManager.java
+javac CalendarNotificator.java
+javac CalendarObjectData.java
+javac CalendarObjectImpl.java
+javac CalendarObject.java
+javac Event.java
