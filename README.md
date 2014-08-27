@@ -1,6 +1,6 @@
 DistributedCalendar
 ===================
-This is a distributed calendar system. 
+This is a distributed calendar system. For more details you can refer to CS675-proj2.pdf.
 
 1. Use ./compile to compile all java source code, and user ./clean to clean all .class files.
 2. Usage:
